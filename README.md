@@ -13,8 +13,12 @@ Pour modifier les parametres du jeu pendant qu il tourne sans redemarrer. Il nou
 
 ## 🌟📚STRUCTURE DU PROJET 
  MonProjet/ 
-├── main.cpp          # Point d'entrée 
-├── Game.h/cpp      # Logique principale 
+├── main.cpp          # Point d'entrée
+
+├── Game.h/cpp      # Logique principale
+
 ├── Renderer.h/cpp  # Tout le rendu SDL 
-├── UI.h/cpp        # Interface ImGui 
+
+├── UI.h/cpp        # Interface ImGui
+
 └── Utils.h/cpp     # Fonctions helpers 
