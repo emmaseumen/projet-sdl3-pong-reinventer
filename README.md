@@ -12,7 +12,8 @@ Pour rendre le jeu plus attrayant comme: les effets lumineux quand la balle touc
 Pour modifier les parametres du jeu pendant qu il tourne sans redemarrer. Il nous aide à: ajuster la vitesse de la balle, changer la taille des raquettes, modifier les couleurs, activer et desactiver des bonus speciaux, tester differentes configurations.
 
 ## 🌟📚STRUCTURE DU PROJET 
- MonProjet/ 
+ MonProjet/
+ 
 ├── main.cpp          # Point d'entrée
 
 ├── Game.h/cpp      # Logique principale
