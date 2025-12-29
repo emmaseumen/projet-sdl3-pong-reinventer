@@ -23,3 +23,7 @@ Pour modifier les parametres du jeu pendant qu il tourne sans redemarrer. Il nou
 ├── UI.h/cpp        # Interface ImGui
 
 └── Utils.h/cpp     # Fonctions helpers 
+
+## COMMANDE DE COMPILATION😏
+
+
